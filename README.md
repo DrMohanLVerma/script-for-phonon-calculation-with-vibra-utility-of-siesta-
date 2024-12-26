@@ -6,7 +6,7 @@ This script help you to run  vibra utility for phonon calculation. After success
 # Author: Mohan L Verma,                               #
 #        Computational Nanoionics Research lab,        #  
 #        Department of Applied Physics,                #
-#        SSGI, Shri Shanakaracharya Technical          # 
+#        Shri Shanakaracharya Technical                # 
 #        Campus-Junwani Bhilai(Chhattisgarh)  INDIA    #
 #        Aug 2021 ver-1                                #
 # Commands to run this example:                        #
